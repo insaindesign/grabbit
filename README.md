@@ -9,8 +9,7 @@ http://nodejs.org/download/
 `npm install -g phantomjs`
 
 **Install Casper**
-npm install -g casperjs
-
+`npm install -g casperjs`
 
 Setup
 -----
@@ -28,4 +27,4 @@ RUNNING
 **From this folder in terminal**
 `casperjs gorabbitgo.js`
 
-All the saved screenshots will be in the 'out' folder, within this directory.
+All the saved screenshots will be in the `out` folder, within this directory.
