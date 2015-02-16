@@ -1,0 +1,20 @@
+{
+  "name": "grabbit",
+  "version": "0.0.1",
+  "description": "Screenshots using casperjs",
+  "main": "gograbbit.js",
+  "start": "casperjs gograbbit.js",
+  "dependencies": {
+    "sanitize-filename": "*"
+  },
+  "author": {
+    "name": "Matt Sain",
+    "email": "matt@insaindesign.com",
+    "url": "http://github.com/insaindesign"
+  },
+  "license": "Apache-2.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/insaindesign/grabbit.git"
+  }
+}
