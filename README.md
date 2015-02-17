@@ -11,6 +11,9 @@ http://nodejs.org/download/
 **Install Casper**
 `npm install -g casperjs`
 
+**Install dependencies**
+`npm install`
+
 Setup
 -----
 
